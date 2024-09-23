@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me : idk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Singing is fun
+- ⚡ Fun fact: I have no fun fact
   
 
 <!---
