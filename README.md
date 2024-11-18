@@ -1,4 +1,4 @@
-I just wanna be ✨Normal✨
+Something was ✨~beautiful~✨
 
 <!---
 KeyndraPrawira/KeyndraPrawira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
