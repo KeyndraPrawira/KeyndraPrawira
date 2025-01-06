@@ -1,4 +1,4 @@
-Something was ✨~beautiful~✨
+Tidak bisa bicara, Whatsapp saja
 
 <!---
 KeyndraPrawira/KeyndraPrawira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
