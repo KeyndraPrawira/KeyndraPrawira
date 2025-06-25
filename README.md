@@ -7,7 +7,7 @@
 
 <p align="center">🗿 Keyndra Ardhi Prawira 🔱Software Engineering Student</p>
 <hr>
-<h4>meet me on the : <a href="https://www.tiktok.com/@domgeee_?lang=id-ID"><img width="30px" src="https://pngate.com/wp-content/uploads/2025/03/tiktok-app-icon-logo-2025-1.png"></a>
+<h4>meet me on the : <a href="https://www.tiktok.com/@domgeee_?lang=id-ID"><img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFWrR5v9UFxMrG0lwAPuJwNMY_YlOgG7f7lA&s"></a>
   <a href="https://www.instagram.com/keyy_bjr/"> <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a> </h4>
 <!---
 KeyndraPrawira/KeyndraPrawira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
