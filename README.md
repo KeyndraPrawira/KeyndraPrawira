@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">🗿 Keyndra Ardhi Prawira 🔱Software Engineering Student</p>
+<hr>
+<h4>meet me on the : <a href="https://www.tiktok.com/@domgeee_?lang=id-ID"><img width="100px" src="https://cdn.pixabay.com/photo/2021/01/30/06/43/tiktok-5962993_640.png"></a>
+  <a href="https://www.instagram.com/keyy_bjr/"> <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png"></a> </h4>
 <!---
 KeyndraPrawira/KeyndraPrawira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
