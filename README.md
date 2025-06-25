@@ -2,9 +2,9 @@
 
 
 <p align="center">
-  <img width="200px" style="margin-right:5px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ6OXFubXNicmVxZmJzZ2VneDV5cnZ4MHNmaTFuajV3NnlhOXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif">
+  <img width="170px" style="margin-right:5px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ6OXFubXNicmVxZmJzZ2VneDV5cnZ4MHNmaTFuajV3NnlhOXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif">
 <img width="200px" style="margin-right:5px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhvb3JybWFmYW1vc3poNThwY3htdTgxcjU4eDRuNTFqbXJ5eDlheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"> 
-  <img width="200px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ6OXFubXNicmVxZmJzZ2VneDV5cnZ4MHNmaTFuajV3NnlhOXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif">
+  <img width="170px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ6OXFubXNicmVxZmJzZ2VneDV5cnZ4MHNmaTFuajV3NnlhOXc4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BK1EfIsdkKZMY/giphy.gif">
 </p>
 
 <p align="center">🗿 Keyndra Ardhi Prawira 🔱Software Engineering Student</p>
